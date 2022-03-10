@@ -1,4 +1,4 @@
----
+$231000000---
 title: Scalars
 redirect_from:
   - /v4/scalar
